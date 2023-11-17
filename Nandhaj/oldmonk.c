@@ -2,6 +2,6 @@
 void main()
 {
     printf("daily have 10 ml old monk")
-printf("love  is eoic shit")	
+printf("love  is epic shit")	
 printf("abhinav loves kambi");
 }
